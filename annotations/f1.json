@@ -1,0 +1,38 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "http://localhost:8888/annotation/1718876691708",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-20T11:44:51",
+    "dcterms:modified" : "2024-06-20T11:44:51",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif : parchemin\nCouler : violet\nMat&eacute;riau : orseille",
+      "format" : "text/html",
+      "chars" : "<p>Motif : parchemin</p>\n<p>Couler : violet</p>\n<p>Mat&eacute;riau : orseille</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://48f7534a-65d7-4fac-8a72-86d63a415022",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1040,512,67,67"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1039.88765,511.93561h33.70499v0h33.70499v33.70499v33.70499h-33.70499h-33.70499v-33.70499z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4ae60e97-7245-4997-9137-85541eeb1dfd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105388196/canvas/f1"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
