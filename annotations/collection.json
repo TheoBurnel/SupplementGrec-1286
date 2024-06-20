@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f60.json", "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f57.json", "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f29.json", "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f21.json" ],
+  "otherContent" : [ "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f60.json", "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f57.json", "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f29.json", "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f21.json", "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/f1.json" ],
   "@id" : "https://TheoBurnel.github.io/SupplementGrec-1286/annotations/collection.json",
   "label" : "All annotations loaded in TheoBurnel/SupplementGrec-1286 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
